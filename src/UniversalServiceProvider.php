@@ -10,7 +10,7 @@ class UniversalServiceProvider extends PackageServiceProvider{
         "2023_01_31_072119_create_relations_table", 
         "2023_01_31_072221_create_colonnes_table", 
         "2023_01_31_072352_create_enregistrements_table"])
-        ->runsMigrations();
+        
         ;
     }
 }
