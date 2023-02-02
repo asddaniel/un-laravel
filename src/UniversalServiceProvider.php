@@ -1,6 +1,7 @@
 <?php
 namespace Asddaniel\UniversalLaravel;
 
+
 use Spatie\LaravelPackageTools\PackageServiceProvider;
 use Spatie\LaravelPackageTools\Package;
 
