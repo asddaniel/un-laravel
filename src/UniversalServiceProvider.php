@@ -1,5 +1,9 @@
 <?php
 namespace Asddaniel\UniversalLaravel;
+
+use Spatie\LaravelPackageTools\PackageServiceProvider;
+use Spatie\LaravelPackageTools\Package;
+
 class UniversalServiceProvider extends PackageServiceProvider{
 
     public function configurePackage(Package $package): void
