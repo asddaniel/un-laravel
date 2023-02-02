@@ -1,0 +1,21 @@
+{
+    "name": "asddaniel/universal-laravel",
+    "description": "package to use universal model",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Asddaniel\\UniversalLaravel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Daniel Assani",
+            "email": "devasddaniel@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "spatie/laravel-package-tools": "^1.14"
+    }
+}
