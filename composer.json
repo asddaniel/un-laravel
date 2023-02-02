@@ -14,9 +14,9 @@
             "email": "devasddaniel@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
-    "prefer-stable": true,
+    "minimum-stability": "dev",
     "require": {
+        "php": "^8.0.2",
         "spatie/laravel-package-tools": "^1.14"
     }
 }
